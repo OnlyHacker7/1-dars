@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.katta{
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+}
+.bigdiv{
+    width: 100%;
+    height: 400px;
+    display: flex;  
+    margin: 0 auto;
+    margin-top: -15px;
+}
+.box{
+    width: 530px;
+}
+.find{
+    width: 530px;
+}
+.nma{
+    margin-top: -20px;
+    color: rgb(123, 126, 129);
+}
+.head{
+    margin-top: -50px;
+}
+.one{
+    margin-top: -13px;
+}
+.box1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    margin-top: -20px;
+}
+.find1{
+    width: 80px;
+    height: 60px;
+}
+.one1{
+    padding-left: 20px;
+    margin-top: -20px;
+}
+.bigdiv2{
+    margin-top: -150px;
+    display: flex;
+}
+.box2{
+    width: 50%;
+    height: 100vh;
+}
+.main2{
+    width: 530px;
+    margin-top: 130px;
+    display: flex;
+}
+.main3{
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+}
+.main3 img{
+    width: 31%;
+}
+.find2{
+    height: 110px;
+}
+.one2{
+    margin-left: 4px;
+    margin-top: -20px;
+}
+.name2{
+    margin-top: 140px;
+    display: flex;
+}
+.name23{
+    display: flex;
+    margin-top: 20px;
+}
+.name23 img{
+   width: 31%;    
+}

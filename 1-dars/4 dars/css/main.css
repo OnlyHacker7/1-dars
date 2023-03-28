@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: darkslategray;
+}
+.name{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    margin-top: 180px;
+    margin-left: 550px;
+    border-radius: 50%;
+    transition: 3s;
+}
+.name:hover{
+    background-color: blue;
+    transform:translateY(-100px);
+}
+.divv{
+    width: 100px; 
+    height: 100px;
+    background-color: rgb(80, 145, 6);
+    margin-left: 600px;
+    border-radius: 50%;
+    transition: 3s;
+    margin-top: -33px;
+}
+.divv:hover{
+    background-color: black;
+    color: white;
+    transform: translate(150px);    
+}
+.kicik{
+    width: 100px;
+    height: 100px;
+    background-color: indigo;
+    margin-left: 500px;
+    border-radius: 50%;
+    transition: 3s;
+    margin-top: -118px;
+}
+.kicik:hover{
+    background-color: cornflowerblue;
+    transform: translate(-150px);
+}
+.one{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin-left: 550px;
+    margin-top: 530px;
+    transition: 3s;
+    margin-top: -36px;
+    border-radius: 50%;
+}
+.one:hover{
+    background-color: brown;
+    transform: translateY(150px);
+    transform: rotate(45dag) scale(1.2);
+}

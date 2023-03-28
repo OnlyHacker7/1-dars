@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 500px;
+    background-color: black;
+}
+.divv{
+    width: 100px;
+    height: 10px;
+    margin: 100px auto;
+    border-radius: 50px;
+}
+.img1{
+    width: 50px;
+    margin-top: 150px;
+    margin-left: 150px;
+    background-color: aqua;
+    transition: 5s;
+}
+body:hover{
+    background-color: brown;
+    transition: 1;
+}
+.divv2{
+    width: 100px;height: 10px;
+    margin: 100px auto;
+    border-radius: 50px;
+}
+.img2{
+    width: 50px;
+    margin-top: 40px;
+    margin-left: 201px;
+    transition: 3s;
+}
+.divv3{
+    width: 100px;height: 100px;
+    margin: 80px auto;
+} 
+.img3{
+    width: 50px;
+    margin-left: 252px;
+}
+.divv4{
+    width: 100px;height: 100px;
+    margin: -250px auto;
+}
+.img4{
+    width: 50px;
+    margin-left: 310px;
+   
+}

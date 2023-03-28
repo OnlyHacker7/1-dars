@@ -1,0 +1,22 @@
+fieldset{
+    background-color: white;
+    width: 300px;height: 300px;
+    margin:100px auto;
+    border-radius: 100px 0 ;
+}
+body{
+    background-color: aqua;
+}
+.gold{
+    background-color: aqua;color:white;
+    text-align: center;
+    font-size: 15px;
+   margin-left: 40px;
+   border-radius: 10px 10px;
+}
+.id{
+    text-align: center;
+}
+.text{
+    background-color: aqua;
+}

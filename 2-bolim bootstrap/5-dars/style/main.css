@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body ul {
+  display: flex;
+}
+body ul li {
+  list-style: none;
+  margin: 0 15px;
+}
+body ul a {
+  text-decoration: none;
+  color: black;
+}
+body .buton_rang {
+  margin-left: 700px;
+}
+body .image {
+  margin-right: 300px;
+  padding-top: 30px;
+}
+body .image .imagee {
+  margin-left: 100px;
+}
+body .header_text {
+  font-weight: 900;
+  font-size: 75px;
+}
+body .boton {
+  border-radius: 20px;
+  background-color: rgb(84, 232, 84);
+  border: none;
+  padding: 8px 40px;
+}
+body .qora {
+  height: 300px;
+}
+body .qora p {
+  color: white;
+  text-align: center;
+}
+body .qora h1 {
+  color: white;
+  font-size: 48px;
+  padding-top: 120px;
+  text-align: center;
+}
+body .imag {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+body .col_right {
+  background-color: #FAF9F7;
+}
+body .fon {
+  height: 480px;
+  background-color: #FBF19B;
+}
+body .fon h1 {
+  padding-top: 200px;
+  text-align: center;
+}
+body .fon p {
+  text-align: center;
+  padding-top: 20px;
+}
+body .rang {
+  background-color: #D4F2F9;
+  height: 350px;
+}
+body .rang h2 {
+  text-align: center;
+  padding-top: 120px;
+}
+body .rang p {
+  text-align: center;
+}
+body .bg-dark h1 {
+  color: white;
+  font-style: 55px;
+  text-align: center;
+  padding-top: 100px;
+}
+body .bg-dark .rasm {
+  height: 120px;
+}
+body .bg-dark .senter {
+  height: 380px;
+  width: 30%;
+  background-color: brown;
+  justify-content: end;
+  text-align: center;
+  margin: 10px;
+  margin: 0 auto;
+}
+body .scal :first-child {
+  background-color: rgb(107, 171, 84);
+}
+body .scal :nth-child(2) {
+  background-color: #FBF19B;
+}/*# sourceMappingURL=main.css.map */

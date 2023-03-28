@@ -1,0 +1,44 @@
+@import url(varebl.scss);
+$color:black;
+$color1: yellow;
+$color2: white;
+$color3: blue;
+$color4:rgba(61, 58, 58, 0.779);
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    .rang{
+        background-color: $color4;
+        & a{
+            color: $color2;
+        }
+        & .box{
+            background-color: $color4;
+        }
+    }
+    .nav_img{
+        width: 60px;
+        height: 60px;
+    }
+    .main{
+        & h1{
+            color: $color;
+            text-align: center;
+            padding: 25px;
+        }
+    }
+    .fon{
+        background-color: rgba(237, 228, 228, 0.413);
+        & h1{
+            text-align: center;
+            padding: 40px;
+            color: $color;
+        }
+    }
+    .card{
+        margin: 0 8px;
+    }
+
+}

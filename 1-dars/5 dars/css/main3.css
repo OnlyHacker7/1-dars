@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(31, 119, 190);    
+}
+ul{
+    width: 450px;
+    display: flex;
+    font-size: 25px;
+    list-style: none;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: 0 280px;
+    padding: 25px;
+}
+li{
+    margin: 0 20px;
+}
+h1{
+    margin-left: 480px;
+}

@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav li{
+    margin-top: 15px;
+    list-style: none;
+    margin: 10px 15px;
+    border: none;
+}
+nav  li select{
+    border-radius: none;
+}
+nav img{
+     object-fit: contain;
+}
+.box{
+    width: 250px;
+    height: 40px;
+    display: flex;
+    margin-right: 50px;
+    background-color: #ECF5FB;
+    align-items: center;
+    border-radius: 20px;
+}
+.redline{
+    margin-left: 130px;
+    border: none;
+    background-color: #ECF5FB;
+
+}
+.box2{
+    display: flex;
+    align-items: center;
+}
+.box2 button{
+    border: none;
+    border-radius: 10px;
+    background-color: #ECF5FB;
+    margin-left: 10px;
+}
+.main{
+    margin-top: 40px;
+}
+.main h1{
+    color: aqua;
+}

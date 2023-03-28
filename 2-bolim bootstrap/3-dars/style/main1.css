@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body .container-fluid {
+  background-color: rgb(54, 124, 107);
+}
+body .container-fluid .text {
+  color: white;
+  background-color: rgb(54, 124, 107) !important;
+}
+body .container-fluid .text:hover {
+  transform: scale(1.1);
+  background-color: green;
+}
+body .container-fluid .text1 {
+  color: white;
+}
+body .container-fluid .box {
+  color: white;
+}
+body .rang {
+  background-color: white;
+}
+body .nma {
+  color: white;
+}
+body .cardd {
+  width: 270px;
+  height: 150px;
+  border-radius: 10px;
+  background-color: rgb(14, 158, 110);
+  margin: 5px;
+}
+body .cardd h2 {
+  text-align: center;
+  padding-top: 50px;
+}
+body .nnnn {
+  top: -15px;
+}
+body .text_centr {
+  margin-top: 170px;
+}
+body h1 {
+  color: rgb(14, 158, 110);
+}
+body .fon {
+  margin-top: -100px;
+  background-color: rgba(197, 189, 189, 0.267);
+}
+body .card2 {
+  width: 350px;
+  height: 300px;
+  border-radius: 10px;
+  background-color: white;
+  margin: 15px;
+  padding-top: 30px;
+}
+body .card2 h3:hover {
+  transform: scale(1);
+  border-bottom: 3px solid rgb(36, 156, 36);
+}
+body .aaaa:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+body select {
+  border: none;
+}
+body .card-body {
+  background-color: white;
+}
+body img:hover {
+  transition: 1.1;
+}
+body .boyi {
+  margin-top: 200px;
+}
+body .textt {
+  top: 330px;
+  color: white;
+  text-align: center;
+}
+body .textt h1 {
+  color: white;
+}
+body .textt .hoverr {
+  margin-top: -20px;
+  border-radius: 70px;
+  padding: 10px;
+  border: none;
+}
+body .textt button {
+  border-radius: 15px;
+  padding: 10px;
+  border: none;
+}
+body .textt button:hover {
+  transform: scale(1.1);
+  background-color: green;
+}
+body .photo img {
+  filter: brightness(70%);
+}
+body .buton_card {
+  margin-left: 250px;
+  padding: 5px 40px;
+}
+body .rang_card {
+  background-color: rgb(54, 124, 107);
+}
+body .rang_card h6 {
+  color: white;
+}
+body .footer_rang {
+  background-color: rgb(54, 124, 107);
+}
+body .footer_rang h5 {
+  color: white;
+}
+body .footer_rang h4 {
+  color: white;
+}
+body .footer_rang p {
+  color: white;
+}
+body .footer_rang li {
+  list-style: none;
+  color: rgb(181, 181, 181);
+}/*# sourceMappingURL=main1.css.map */

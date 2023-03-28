@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(245, 68, 68);
+}
+fieldset{
+    background-color: rgb(117, 15, 15);color: white;
+    width: 750px;height: 350px;
+    margin: 50px auto;
+    
+}
+input{
+    margin-right: 250px;
+}
+
+label{
+    margin-left: 150px;
+    margin: 550PX 0 0 170PX;
+}
+.red{
+    border-radius: 10px;
+    font-size: 25px;
+    margin-left: 350px;
+    
+
+    text-align: center;
+}

@@ -1,0 +1,286 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(197, 196, 196);
+    
+}
+.contayner{
+    width: 1140px;
+    margin: 0 auto;
+    background-color: white;
+}
+nav{
+    display: flex;
+    
+}
+nav img{
+    width: 100px;
+    margin-left: 40px;
+    object-fit: contain;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    color: white;
+    margin: 0 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    border-bottom: 2px solid;
+    border-color: #E31F26;
+}
+span{
+    color: #E31F26;
+}
+ul button{
+    background-color: #E31F26;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+select{
+    border: none;
+
+}
+.header{
+    background: url(../img/Mask\ Group\ \(1\).png);
+    background-size: 100%;
+    height: 90vh;
+    background-color: rgba(0, 0, 0, 0.781);
+    position: relative;
+}
+.box1{
+   padding-top: 150px;
+   padding-left: 100px;
+   
+}
+.box1 h1{
+    font-size: 50px;
+    color: white;
+}
+.bacround_color{
+    width: 100%;
+    height: 100%;   
+    background-color: rgba(0, 0, 0, 0.541);
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+.box1 button{
+    background-color: #E31F26;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.box2{
+    width: 80%;
+    height: 200px;
+    background-color: #213342;
+    margin: 0 auto;
+    position: absolute;
+    bottom: -120px;
+    left: 120px;
+    border-radius: 10px;
+}
+.box2 ul a{
+    color: white;
+}
+hr{
+    width: 100%;
+}
+.box3{
+    width: 90%;
+    background-color: white;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.box3 select{
+    padding: 0 20px;
+    margin-top: 15px;
+}
+.buttonn{
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.button1 button , button{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #213342;
+    border-color: white;
+    color: white;
+}
+.red1{
+    background-color: red;
+}
+.box4{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 160px;  
+}
+.text{
+    margin: 10px;
+    width: 20%;
+    background-color: #c4baba;
+    border-radius: 10px;
+    height: 150px;
+}
+.box4 select{
+    border: none;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 25px;
+    background-color: #c4baba;
+}
+.text h5{
+    padding-left: 25px;
+}
+h1{
+    text-align: center;
+}
+.main{
+    width: 100%;
+    margin-top: 50px;
+    color: #213342;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.main h1{
+    text-align: center;
+}
+.main_img{
+    margin: 10px;
+    width: 25%;
+    box-shadow: 0 0 10px rgba(150, 148, 148, 0.664);
+    border-radius: 10px;
+}
+.main_img img{
+    width: 270px;
+    margin-left: 8px;
+    margin-top: 5px;
+}
+.main_img .foot{
+    margin-left: 15px;
+}
+.main_button{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
+.foot a{
+    color: #7798B5;
+}
+.main_button .red3{
+    background-color: #E31F26;
+    margin-right: 250px;
+}
+.main_button .red2{
+    background-color: #f9f9f9;
+    color: red;
+    border: 1px solid red;
+    margin-right: 250px;
+}
+.hello{
+    text-align: center;
+    margin-top: 50px;
+}
+.katta{
+    display: flex;
+    justify-content: end;
+    margin-top: 50px;
+    width: 100%;
+}
+.katta img{
+    margin-right: 20px;
+}
+.katta_text{
+    width: 50%;
+    background-color: #999b9c46;
+    border-radius: 10px;
+    padding-top: 40px;
+    padding-left: 15px;
+}
+.katta_text button{
+    background-color: #E31F26;
+}
+.katta_text h1{
+    font-size: 35px;
+    padding-right: 150px;
+}
+.head{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    margin-top: 100px;
+}
+.head img{
+    width: 55%;
+}
+.adres{
+    width: 40%;
+    background-color: white;
+}
+.adres h2{
+    padding-left: 60px;
+}
+.adres1{
+    display: flex;
+    justify-content: space-around;
+}
+.im{
+    padding-left: 60px;
+}
+.adres h5{
+    color: #7798B5;
+}
+.cool h1{
+    padding-top: 60px;
+}
+.war{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.war_text{
+    width: 55%;
+    background-color: #d4c5c52d;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.war_text button{
+    background-color: #E31F26;
+}
+.img{
+    padding-top: 50px;
+}
+.paket{
+    margin-top: 50px;
+}
+.main5{
+    background-color: #d4c5c52d;
+    padding-left: 60px;
+    margin-top: 50px;
+}
+.image{
+    padding-top: 50px;
+}
+.main6{
+    margin-top: 40px;
+    padding-left: 20px;
+}

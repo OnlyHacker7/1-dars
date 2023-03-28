@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: blue;
+}
+body nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+bodyimg {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+bodyul {
+  display: flex;
+  list-style: none;
+}
+bodyli {
+  color: white;
+}
+bodylia {
+  text-decoration: none;
+}/*# sourceMappingURL=main.css.map */

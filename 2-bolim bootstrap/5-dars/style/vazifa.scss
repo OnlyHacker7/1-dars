@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    .rang{
+        background-color: #004E35;
+    }
+    .row{ 
+        & p{
+            color: #88E53E;
+            text-align: center;
+            padding-top: 200px;
+        }
+        & h1{
+            color: #88E53E;
+            font-size: 120px;
+            font-weight: 600;
+            text-align: center;
+            padding-top: 120px;
+        }
+    }
+}

@@ -1,0 +1,38 @@
+@import url(varebl.scss);
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body .rang {
+  background-color: rgba(61, 58, 58, 0.779);
+}
+body .rang a {
+  color: white;
+}
+body .rang .box {
+  background-color: rgba(61, 58, 58, 0.779);
+}
+body .rang .a_text {
+  color: white;
+}
+body .nav_img {
+  width: 60px;
+  height: 60px;
+}
+body .main h1 {
+  color: black;
+  text-align: center;
+  padding: 25px;
+}
+body .fon {
+  background-color: rgba(237, 228, 228, 0.413);
+}
+body .fon h1 {
+  text-align: center;
+  padding: 40px;
+  color: black;
+}
+body .card {
+  margin: 0 8px;
+}/*# sourceMappingURL=main.css.map */

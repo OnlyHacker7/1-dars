@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+    
+    
+}
+fieldset{
+    width: 300px;    height: 180px;
+    border-color: green;
+    border: 4px solid green ;
+    border-radius: 10px;
+}
+div{
+    margin-top: 15px;
+}
+label{
+    margin-top: 60px;
+}
+input{
+    float: right;
+    border-radius: 5px;
+ 
+}
+button{
+    margin-left: 220px;
+    font-size: 16px;
+  
+}

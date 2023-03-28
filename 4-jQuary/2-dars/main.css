@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    box-shadow: 0 0 8px rgb(150, 144, 144);
+}
+.cardImg{
+    height: 200px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search{
+    margin-left: 400px;
+}

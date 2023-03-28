@@ -1,0 +1,21 @@
+body {
+    margin:100px auto;
+    width: 650px;
+    height:800px;
+    background-color: white;
+}
+fieldset {
+    background-color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+label {
+    margin-left: 80px;
+}
+input {
+    margin-left: 45px;
+    margin-right: 250px;
+}
+.one {
+    margin-left: 180px;
+}

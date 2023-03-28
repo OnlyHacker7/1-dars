@@ -1,0 +1,238 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contayner{
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+    background-color: rgb(53, 52, 52);
+}
+h2{
+    color: white;
+    margin: 0 15px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main{
+    display: flex;
+}
+li{
+    margin: 0 20px;
+    list-style: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.box{
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+.kata{
+    width: 50%;
+}
+.kata img{
+    width: 100%;
+    height: 550px;
+    margin: 40px 50px;
+}
+.box1{
+    width: 50%;
+    color: white;
+    margin: 150px 80px;
+}
+.box1 h1{
+    margin-top: 40px;
+    margin-left: -20px;
+}
+.olma{
+    margin: 130px 5px;
+}
+.box1 img{
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+}
+.main3{
+    width: 100%;
+    display: flex;
+    color: white;
+    margin-left: 50px;
+    margin-top: -120px;
+}
+.main3 button{
+    width: 150px;
+    height: 40px;
+    border: 0;
+    margin-top: 18px;
+    margin-left: 350px;
+    background-color: rgb(35, 145, 145);
+    border-radius: 10px;
+}
+.box2{
+    width: 90%;
+    height: 300px;
+    background-color: black;
+    border-radius: 20px;
+    margin: 0 auto;
+    display: flex;
+    color: white;
+    margin-top: 25px;
+}
+.box2 h1{
+    margin-top: 15px;
+    margin-left: -2px;
+}
+.two{
+    width: 35%;
+    position: relative;
+}
+.two img{
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.two1{
+    width: 70%;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.box3{
+    width: 100%;
+    height: 450px;
+    display: flex;
+}
+.box3 button{
+    margin-left: 60px;
+}
+.tg{
+    width: 50%;
+    margin-top: 130px;
+}
+.tg h1{
+    margin-top: 15px;
+    margin-left: 100px;
+}
+.tg p{
+    margin-left: 50px;
+    color: white;
+}
+.tg1{
+    width: 50%;
+}
+.tg1 img{
+    margin-top: 110px;
+    width: 90%;
+    height: 320px;
+}
+.tg h6{
+    margin-left: 60px;
+}
+.box4{
+    margin-top: 80px;
+    width: 90%;
+    height: 200px;
+    border-radius: 15px;
+    display: flex;
+    background-color: black;
+    margin: 0 auto;
+}
+.yes{
+    width: 50%;
+}
+.yes h6{
+    color: aqua;
+    margin-top: 55px;
+    margin-left: 110px;
+}
+.yes h1{
+    margin-top: -20px;
+    margin-left: 100px;
+    color: white;
+}
+.yes1{
+    width: 50%; 
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.yes1 input{
+    width: 240px;
+    padding: 5px;
+    margin: 8px 0;
+    background-color: dimgray;color: white;
+    color: white;
+}
+.yes1 button{
+    margin-left: 5px;
+    background-color: aqua;
+    color: white;
+}
+.box5{
+    width: 100%;
+    height: 260px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 25px;
+    
+}
+.acer{
+    width: 18%;
+    height: 140px;
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+.acer h4{
+    margin: 25px 30px;
+}
+.acer h5{
+    margin-left: 30px;
+    margin-top: -10px;
+}
+.box6{
+    width: 90%;
+    height: 300px;
+}
+.lok{
+    width: 30%;
+
+}
+.lok h1{
+    margin-top: 140px;
+    color: white;
+    margin-left: 60px;
+}
+.lok img{
+    width: 20px;
+    height: 20px;
+    margin-left: 60px;
+}
+.logo{
+    margin-left: 300px;
+    margin-top: -80px;
+}
+.logo1{
+    margin-left: 450px;
+    margin-top: -95px;
+    color: white;
+}
+.main1{
+    margin-left: 720px;
+    margin-top: -120px;
+}
+.main1 img{
+    width: 20px;
+    height: 20px;
+}

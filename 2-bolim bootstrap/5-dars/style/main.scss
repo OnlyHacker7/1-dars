@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    ul {
+        display: flex;
+        & li{
+            list-style: none;
+            margin: 0 15px;
+        }
+        & a{
+            text-decoration: none;
+            color: black;
+        }
+    }
+    & .buton_rang{
+        margin-left: 700px;
+    }
+    .image{
+        margin-right: 300px;
+        padding-top: 30px;
+        & .imagee{
+            margin-left: 100px;
+        }
+    }
+    .header_text{
+        font-weight: 900;
+        font-size: 75px;
+    }
+    .boton{
+        border-radius: 20px;
+        background-color: rgb(84, 232, 84);
+        border: none;
+        padding: 8px 40px;
+    }
+    .qora{
+        height: 300px;
+        & p{
+            color: white;
+            text-align: center;
+
+        }
+    }
+    .qora h1{
+        color: white;
+        font-size: 48px;
+        padding-top: 120px;
+        text-align: center;
+    }
+    .imag{
+        object-fit: contain;
+    }
+    .col_right{
+        background-color: #FAF9F7;
+    }
+    .fon{
+        height: 480px;
+        background-color: #FBF19B;
+        & h1{
+            padding-top: 200px;
+            text-align: center;
+        }
+        & p{
+            text-align: center;
+            padding-top: 20px;
+        }
+    }
+    .rang{
+        background-color: #D4F2F9;
+        height: 350px;
+        & h2{
+            text-align: center;
+            padding-top: 120px;
+        }
+        & p{
+            text-align: center;
+        }
+    }
+    .bg-dark{
+        & h1{
+            color: white;
+            font-style: 55px;
+            text-align: center;
+            padding-top: 100px;
+        }
+        .rasm{
+            height: 120px;
+        }
+        .senter{
+            height: 380px;
+            width: 30%;
+            background-color: brown;
+            justify-content: end;
+            text-align: center;
+            margin: 10px;
+            margin: 0 auto;
+        }
+    }
+    .scal :first-child{
+        background-color: rgb(107, 171, 84);
+    }
+    & .scal :nth-child(2){
+        background-color: #FBF19B;
+    }
+}
